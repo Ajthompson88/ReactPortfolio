@@ -92,7 +92,7 @@ Deployment Link: Provide a URL to your deployed application on Netlify.
 
 Screenshot / Demo GIF: If available, add a screenshot or an animated GIF (as shown in the assignment’s mock-up) to give viewers a visual preview.
 
-## **Contributations**
+## **Contributions**
 
 How to Contribute: If you expect contributions or are open to feedback, include guidelines on how others can get involved.
 
