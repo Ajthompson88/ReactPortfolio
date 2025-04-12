@@ -8,7 +8,16 @@ User Story: Directly include the user story (e.g., “AS AN employer …”) so 
 
 ## **Table of Contents**
 
-Navigation: This helps users quickly jump to the sections that interest them (e.g., Installation, Usage, etc.).
+- [Description](#description)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [File Structure](#file-structure)
+- [Deployment](#deployment)
+- [Contributions](#contributions)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## **Acceptance Criteria**
 
@@ -101,5 +110,7 @@ How to Contribute: If you expect contributions or are open to feedback, include 
 Licensing Information: State the project’s license if applicable, so that users know how the code can be used.
 
 ## **Acknowledgements**
+
+Rishikesh - https://github.com/rishikesh2003/my-portfolio# -Thank you for this amazing template that you have out there for the world to use!
 
 References: Mention any external resources, tutorials, or assets that helped you during the development.
